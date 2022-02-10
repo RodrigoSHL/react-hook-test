@@ -20,7 +20,7 @@ function App() {
             Init
           </Link>
           <Link to="/we" className="btn btn-primary">
-            We're
+            Civilization
           </Link>
           <Link to="/contact" className="btn btn-secondary" >
             Contact
